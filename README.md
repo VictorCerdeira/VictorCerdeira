@@ -1,8 +1,8 @@
-<h2>Oii eu sou o Victor Cerdeira, apaixonado por tecnologia e programação 👋</h2>
+<h2>Oii eu sou o Victor Cerdeira, apaixonado por tecnologia e na resolução de problemas 👋</h2>
 
 - 🔭 Cursando desenvolvimento de sistemas
-- 🌱 Estudando Java
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando C#
+
 
 
 <div style="display: inline_block"><br>
