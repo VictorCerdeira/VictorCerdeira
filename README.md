@@ -1,4 +1,4 @@
-<h2>Oii eu sou o Victor Cerdeira, apaixonado por tecnologia e na resolução de problemas 👋</h2>
+<h2>Oii eu sou o Victor Cerdeira, apaixonado por tecnologia e resolução de problemas 👋</h2>
 
 - 🔭 Cursando Sistemas de informação
 - 🌱 Estudando C#
