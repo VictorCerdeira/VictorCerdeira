@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Sistemas de informação
 - 🌱 Estudando C# e Java
-
+-🔭 Técnico em desenvolvimento de sistemas
 
 
 <div style="display: inline_block"><br>
