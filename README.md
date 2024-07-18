@@ -1,6 +1,6 @@
 <h2>Oii eu sou o Victor Cerdeira, apaixonado por tecnologia e resolução de problemas 👋</h2>
 
-- 🔭 Técnico em Desenvolvimento de Sistemas e Cursando Sistemas de informação
+- 🔭 Técnico em Desenvolvimento de Sistemas e cursando Sistemas de informação
 - 🌱 Estudando C# e Java 
 
 
